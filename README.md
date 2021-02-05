@@ -35,12 +35,6 @@ Primeiro você precisa se registrar na plataforma, para isso clique em "Register
   <img src=img/register1.png>
 </p>
 
-<p align="center">
-  <img src=img/register2.png>
-</p>
-
-O Handle será seu username, é como os outros usuários te identificarão na plataforma e nos contests.
-
 Clicando em "Contests" na barra superior, é possível acessar datas dos próximos contests, assim como todos os contests passados da plataforma.
 
 <p align="center">
