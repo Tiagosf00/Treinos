@@ -65,7 +65,7 @@ Agora basta esperar o inicio do virtual começar:
   <img src=img/virtual3.png>
 </p>
 
-Para submeter uma solução, basta ir até o canto direito em "Submit ?", escolher a linguagem e selecionar o arquivo de solução:
+Dentro do contest, para submeter a solução de uma questão, basta ir até o canto direito em "Submit?", escolher a linguagem e selecionar o arquivo de solução:
 
 <p align="center">
   <img src=img/virtual4.png>
