@@ -27,5 +27,44 @@ A plataforma utilizada é o [CodeForces](https://codeforces.com/), e os contests
 
 ### CodeForces
 <p align="center">
-  <img width="1200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png">
+  <img width="1200" height="190" src="https://researchweb.iiit.ac.in/~soumyasis.gun/codeforces.png">
 </p>
+
+Primeiro você precisa se registrar na plataforma, para isso clique em "Register" no canto superior direito:
+
+<p align="center">
+  <img src=img/register1.png>
+</p>
+
+<p align="center">
+  <img src=img/register2.png>
+</p>
+
+O Handle será seu username, é como os outros usuários te identificarão na plataforma e nos contests.
+
+Clicando em "Contests" na barra superior, é possível acessar datas dos próximos contests, assim como todos os contests passados da plataforma.
+
+<p align="center">
+  <img src=img/contests.png>
+</p>
+
+Para realizar uma participação virtual em um contest, basta entrar em sua página inicial e clicar em "Start Virtual Contest", no canto direito:
+
+<p align="center">
+  <img src=img/virtual1.png>
+</p>
+
+Clique em "as individual participant", e selecione o horário de inicio do virtual:
+
+<p align="center">
+  <img src=img/virtual2.png>
+</p>
+
+Agora basta esperar o inicio do virtual começar:
+
+<p align="center">
+  <img src=img/virtual3.png>
+</p>
+
+
+
