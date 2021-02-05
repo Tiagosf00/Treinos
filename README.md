@@ -21,9 +21,8 @@ A plataforma utilizada é o [CodeForces](https://codeforces.com/), e os contests
 ## Como utilizar as plataformas?
 
 ### AtCoder
-<p align="center">
-  <img width="200" height="200" src="https://img.atcoder.jp/assets/atcoder.png">
-</p>
+
+In progress...
 
 ### CodeForces
 <p align="center">
@@ -48,7 +47,7 @@ Clicando em "Contests" na barra superior, é possível acessar datas dos próxim
   <img src=img/contests.png>
 </p>
 
-Para realizar uma participação virtual em um contest, basta entrar em sua página inicial e clicar em "Start Virtual Contest", no canto direito:
+Para realizar uma participação virtual em um contest, basta entrar na página do contest e clicar em "Start Virtual Contest", no canto direito:
 
 <p align="center">
   <img src=img/virtual1.png>
@@ -64,6 +63,12 @@ Agora basta esperar o inicio do virtual começar:
 
 <p align="center">
   <img src=img/virtual3.png>
+</p>
+
+Para submeter uma solução, basta ir até o canto direito em "Submit ?", escolher a linguagem e selecionar o arquivo de solução:
+
+<p align="center">
+  <img src=img/virtual4.png>
 </p>
 
 
