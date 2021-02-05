@@ -18,13 +18,56 @@ A plataforma utilizada é o [AtCoder](https://atcoder.jp/), e os contests realiz
 O treino avançado é recomendado para quem já tem um pouco mais de experiência com programação competitiva, lembrando que é possível participar dos dois treinos.
 A plataforma utilizada é o [CodeForces](https://codeforces.com/), e os contests realizados são os *Educational Contests*.
 
-## Como utilizar as plataformas?
+# Como utilizar as plataformas?
 
-### AtCoder
+## AtCoder
 
-In progress...
+<p align="center">
+  <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/aftercider/20190428/20190428202214.png">
+</p>
 
-### CodeForces
+Primeiro você precisa se registrar na plataforma, para isso clique em "Sign In" no canto superior direito:
+
+<p align="center">
+  <img src=img/A_register.png>
+</p>
+
+Clicando em "Contests" na barra superior, é possível acessar datas dos próximos contests, assim como todos os contests passados da plataforma.
+
+<p align="center">
+  <img src=img/A_contests.png>
+</p>
+
+Para realizar uma participação virtual em um contest, basta entrar na página do contest e clicar em "Virtual Participation", abaixo do nome:
+
+<p align="center">
+  <img src=img/A_virtual1.png>
+</p>
+
+Selecione o horário de inicio do virtual:
+
+<p align="center">
+  <img src=img/A_virtual2.png>
+</p>
+
+Agora basta esperar o inicio do virtual começar:
+
+<p align="center">
+  <img src=img/A_virtual3.png>
+</p>
+
+Para submeter a solução de uma questão, basta ir até o final da página, escolher a linguagem e colar o código da solução, ou ir em  "Submit" na barra superior:
+
+<p align="center">
+  <img src=img/A_submit.png>
+</p>
+
+
+
+
+
+
+## CodeForces
 <p align="center">
   <img width="1200" height="190" src="https://researchweb.iiit.ac.in/~soumyasis.gun/codeforces.png">
 </p>
@@ -59,7 +102,7 @@ Agora basta esperar o inicio do virtual começar:
   <img src=img/virtual3.png>
 </p>
 
-Dentro do contest, para submeter a solução de uma questão, basta ir até o canto direito em "Submit?", escolher a linguagem e selecionar o arquivo de solução:
+Para submeter a solução de uma questão, basta ir até o canto direito em "Submit?", escolher a linguagem e selecionar o arquivo de solução:
 
 <p align="center">
   <img src=img/virtual4.png>
