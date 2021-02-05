@@ -6,7 +6,7 @@ O grupo [UnBallon](https://t.me/unballoon) organiza treinos para a maratona de p
 
 * **Treino Avançado:** Quarta das 18:00 às 20:00;
 
-A ideia do treino é que no horário reservado todos realizem uma **participação virtual** (simulação de participação) de um mesmo **contest** (competições de treino). Após o termino do virtual, é possível discutir e tirar dúvidas sobre as questões no grupo do UnBallon no telegram. Não é obrigatório participar dos treinos todas as semanas, nem realizar o contest no horário indicado, a ideia é que os treinos aconteçam toda semana e que você participe quando tiver tempo e quiser treinar.
+A ideia do treino é que no horário reservado todos realizem uma **participação virtual** (simulação de participação) de um **contest** (competições de treino). Após o termino do virtual, é possível discutir e tirar dúvidas sobre as questões no grupo do UnBallon no telegram. Não é obrigatório participar dos treinos todas as semanas, nem realizar o contest no horário indicado, a ideia é que os treinos aconteçam toda semana e que você participe quando tiver tempo e quiser treinar.
 
 ## Treino Iniciante
 
